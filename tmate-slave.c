@@ -220,7 +220,7 @@ static void ssh_echo(struct tmate_ssh_client *ssh_client,
 "  Feel free to reach out if you are having issues."		 "\r\n" \
 "  "								 "\r\n" \
 "  Thanks,"							 "\r\n" \
-"  Nico"							 "\r\n" \
+"  Elis P."							 "\r\n" \
 "  "								 "\r\n"
 
 #define EXPIRED_TOKEN_ERROR_STR						\
@@ -231,7 +231,7 @@ static void ssh_echo(struct tmate_ssh_client *ssh_client,
 "  Feel free to reach out if you are having issues."		 "\r\n" \
 "  "								 "\r\n" \
 "  Thanks,"							 "\r\n" \
-"  Nico"							 "\r\n" \
+"  Elis P."							 "\r\n" \
 "  "								 "\r\n"
 
 static void close_fds_except(int *fd_to_preserve, int num_fds)
